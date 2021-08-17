@@ -1,0 +1,15 @@
+insert into tb_agenda(id_agenda, nm_agenda, id_medico, id_unidade) values
+(1,'Us - Tiago Rios', 8 ,1),
+(2,'Us - Adriana Gomes', 7, 2),
+(3,'Us - Fernando Rocha', 6, 1),
+(4,'Us- Jonatas Bicudo', 5, 1),
+(5,'Us- Patricia Thomaz', 3, 1),
+(6,'US - Mario Leao', 2, 1),
+(7,'Us - Jose Airton', 1,1),
+(8,'Densitometria - Airton', 1,2),
+(9,'Densitometia - Patricia', 3,1),
+(10,'Ressonancia Magnetica', 4, 1),
+(11,'Raio - x', 4,1),
+(12,'Raio - x', 4,2),
+(13,'Tomografia', 5,1),
+(14,'Biopsia - Fernando Rocha', 6,2);

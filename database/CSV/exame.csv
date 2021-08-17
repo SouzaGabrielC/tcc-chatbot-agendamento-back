@@ -1,0 +1,51 @@
+codigo;categoria;nome do exame;sinonimos
+1;Ressonância magnética;Abdome total;abd total, abdomem total
+2;Ressonância magnética;Antebraço direito;Ante braço direito, antebraço dir, anti-braço direito, antibraço direito
+3;Ressonância magnética;Antebraço Esquerdo;Ante braço esquerdo antebraço esq, anti-braço esquerdo, antibraço esquerdo
+4;Ressonância magnética;Bacia;basia
+5;Ressonância magnética;Bolsa Escrotal;Bolsa escroto, b escrotal
+6;Ressonância magnética;Coluna Cervical;Col cervical, coluna cervicau, coluna servical
+7;Ressonância magnética;Coração;Coracao
+8;Ressonância magnética;Face;fase
+9;Ressonância magnética;Joelho Direito;Jlh dir, jlh direito, joelho dir
+10;Ressonância magnética;Joelho Esquerdo;jlh esq, jlh esquerdo, joelho esq
+11;Ressonância magnética;Pelve;peuve
+12;Ressonância magnética;Prostata;Prostatas
+13;Ressonância magnética;Pênis;Peni, Pinto
+14;Ressonância magnética;Seios da Face;Seio face, seios face
+15;Ressonância magnética;Tórax;Toraz
+16;Tomografia Computadorizada;Angiotomografia da pelve;angiotomo pelve, angiotomografia pelve
+17;Tomografia Computadorizada;Clavicula;Cravicula
+18;Tomografia Computadorizada;Coccix;Coquix
+19;Tomografia Computadorizada;Coluna Dorsal;Col dorsal, coluna dorssal
+20;Tomografia Computadorizada;Coxa Direita;Cx direita, coxa dir
+21;Tomografia Computadorizada;Coxa Esquerda;Cx esquerda, coxa esquerda
+22;Tomografia Computadorizada;Coxofemoral;Coxofemural, coxo femoral
+23;Tomografia Computadorizada;Crânio;Cranio
+24;Tomografia Computadorizada;Face;fase
+25;Tomografia Computadorizada;Mandibula;Mandibura, Mandibola
+26;Tomografia Computadorizada;Hipófise;Ipofise, Hipofice
+27;Densitometria Ossea;Densitometria Ossea;densi, densitometria, densi ossea
+28;Ultrassom;Abdome Total;abd total, abdomem total
+29;Ultrassom;Abdome Total com doppler;abd total com dopler, abdomem total com dopler, abd total com doppler, abdomem total com doppler
+30;Ultrassom;Carótidas;Carotida, carotidias
+31;Ultrassom;Nadegas;Nadega, Bunda, bumbum
+32;Ultrassom;Pescoço;Pescoso
+33;Ultrassom;Tireoide;Tiroide, tirioide
+34;Ultrassom;Venoso de Membro Inferior Direito;Venoso MID, Venoso de MID
+35;Ultrassom;Venoso de Membro Inferior Esquerdo;Venoso MIE, Venoso de MIE
+36;Ultrassom;Gestacional de 5D;5d, gest 5d
+37;Ultrassom;Morfologica de 1º Trimestre;Morfo de 1, morfo de primeiro trimestre, morfo de 1 trimestre, morfologico de 1 trimestre
+38;Ultrassom;Morfologica de 2º Trimestre;Morfo de 2, morfo de segundo trimestre, morfo de 2 trimestre, morfologico de 2 trimestre
+39;Raio-x;Escanometria;Escano
+40;Raio-x;Ossos da face;osso da face, ossos face
+41;Raio-x;Nariz;Narix
+42;Raio-x;Patela;Pratela, patrela
+43;Raio-x;Quadril;Quadriu
+44;Mamografia;Mamografia digital;mamo digital, mamografia digi
+45;Mamografia;Mamografia convencial;mamo convecional, mamografia conv
+46;Cardiologia;Ecodopplercardiograma;eco doppler, eco cardio doppler, ecodoppler
+47;Cardiologia;eletrocardiograma;eletro
+48;Cardiologia;Holter;Rolter
+49;Cardiologia;Monitoração Ambulatorial da Pressão Arterial;MAPA, m.a.p.a
+50;Cardiologia;Teste Ergometrico;Teste da esteira, esteira
